@@ -1,0 +1,16 @@
+## Visual Studio / VS Code
+.vs/
+**/.vs/
+[Bb]in/
+**/bin/
+[Oo]bj/
+**/obj/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vscode/
+
+## Secrets & Local configs (from your settings)
+**/appsettings.json
+**/appsettings.Development.json
